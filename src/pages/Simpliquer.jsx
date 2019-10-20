@@ -75,12 +75,12 @@ const Simpliquer = () => (
     <Section background='green' title='Les postes actifs'>
       <ScrollCard
         image='membre'
-        title='Membres'
+        title='Membres Actifs'
         description="Chaque membre actif est lié à un comité respectif et a comme responsabilité de participer aux divers rencontres de son comité, contribuer à l'avancement de ses projets et activités. "
       />
       <ScrollCard
         image='benevole'
-        title='Bénévoles'
+        title='Membres ponctuels'
         description="Le bénévole actif n'est affilié à aucun comité en particulier et est sollicité lorsque un Vp a besoin de soutien. Il a donc des responsabilités seulement lorsqu'il est sollicité."
       />
     </Section>
